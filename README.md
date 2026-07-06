@@ -12,7 +12,7 @@ I'm a Full Stack Developer passionate about building AI-powered web applications
 
 ## 🚀 Tech Stack
 
-Next.js • React • Node.js • Strapi • PostgreSQL • SQL Server • Tailwind CSS • ShadCN UI • Gemini AI • Clerk • REST APIs
+Next.js • React • Node.js • Strapi • SQL Server • Tailwind CSS • ShadCN UI • Gemini AI • Clerk • REST APIs • .NET
 
 ---
 
