@@ -1,59 +1,30 @@
 # Hi 👋 I'm Mahima Kathpal
 
-### Full Stack Developer | Building AI-powered Web Applications
+### Full Stack Developer | AI Applications | Next.js • React • Node.js
 
-I'm a Full Stack Developer passionate about building modern web applications using Next.js, React, Node.js, SQL, and AI.
+I'm a Full Stack Developer passionate about building AI-powered web applications and scalable backend systems.
 
-Currently working as an Associate Full Stack Developer, where I build enterprise applications, develop HRMS modules, work with SAP integrations, SQL Server, REST APIs, and cloud deployments.
+🌐 Portfolio: https://servd-app-eta.vercel.app
+
+💼 LinkedIn: https://linkedin.com/in/mahima-kathpal-dev
 
 ---
 
 ## 🚀 Tech Stack
 
-### Frontend
-- Next.js
-- React
-- JavaScript
-- Tailwind CSS
-- ShadCN UI
-- HTML5
-- CSS3
-
-### Backend
-- Node.js
-- Strapi
-- REST APIs
-
-### Database
-- SQL Server
-- PostgreSQL
-- Neon
-- MongoDB
-
-### AI
-- Google Gemini AI
-- Vapi AI
-
-### Authentication
-- Clerk Authentication
-
-### Cloud
-- Vercel
-- Render
-
-### Tools
-- Git
-- GitHub
-- Postman
-- FileZilla
+Next.js • React • Node.js • Strapi • PostgreSQL • SQL Server • Tailwind CSS • ShadCN UI • Gemini AI • Clerk • REST APIs
 
 ---
 
-# 🚀 Featured Projects
+## 🍳 Featured Projects
 
-## 🍳 Servd — AI Cooking Assistant
+### Servd — AI Cooking Assistant
+AI-powered pantry & recipe assistant using Google Gemini AI.
 
-An AI-powered pantry and recipe assistant that helps users discover recipes from ingredients they already have.
+🔗 https://servd-app-eta.vercel.app
+
+<details>
+<summary><b>Read More</b></summary>
 
 ### Features
 
@@ -61,68 +32,59 @@ An AI-powered pantry and recipe assistant that helps users discover recipes from
 - AI Recipe Generator
 - Smart Pantry Management
 - Saved Recipes
-- Global Recipe Search
-- Google Gemini Integration
+- Recipe Search
+- Authentication
+- Cloud Deployment
 
 **Tech Stack**
 
-Next.js • React • Strapi • PostgreSQL • Gemini AI • Clerk • Tailwind CSS
+- Next.js
+- React
+- Strapi
+- PostgreSQL
+- Gemini AI
+- Clerk
+- Tailwind CSS
 
-🔗 Live Demo
-
-https://servd-app-eta.vercel.app
+</details>
 
 ---
 
-## 🎙️ AiCruiter — AI Interview Platform
+### 🎙️ AiCruiter — AI Interview Platform
 
-An AI-powered voice interviewing platform that automates candidate screening using conversational AI.
+AI-powered voice interview assistant for recruiters.
 
-### Features
+<details>
+<summary><b>Read More</b></summary>
 
 - AI Voice Interviews
 - Candidate Analytics
-- Job Management
-- Automated Interview Flow
-- Recruiter Dashboard
+- Vapi AI
+- Supabase
+- Next.js
+- Tailwind CSS
 
-**Tech Stack**
-
-Next.js • Supabase • Vapi AI • Tailwind CSS • ShadCN UI
+</details>
 
 ---
 
-# 💼 Professional Experience
+<details>
+<summary><b>💼 Professional Experience</b></summary>
 
 - Enterprise HRMS Development
 - SAP VIM Integration
 - Payroll Cockpit
-- Leave Management
-- Attendance Management
 - SQL Stored Procedures
-- SQL Views
-- REST API Development
+- REST APIs
 - Production Debugging
 - FTP Automation
-- Cloud Deployment
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahimakathpal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimakathpal&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-LinkedIn:
-https://linkedin.com/in/mahima-kathpal-dev
-
-Portfolio:
-https://servd-app-eta.vercel.app
-
-GitHub:
-https://github.com/mahimakathpal
+- 🌐 Portfolio: https://servd-app-eta.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/mahima-kathpal-dev
+- 📧 Email: indukathpal@gmail.com
